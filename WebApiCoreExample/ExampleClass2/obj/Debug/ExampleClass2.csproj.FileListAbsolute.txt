@@ -1,0 +1,6 @@
+D:\Documents\Repos\WebApiCoreExample\WebApiCoreExample\bin\Classes\ExampleClass2.dll
+D:\Documents\Repos\WebApiCoreExample\WebApiCoreExample\bin\Classes\ExampleClass2.pdb
+D:\Documents\Repos\WebApiCoreExample\ExampleClass2\obj\Debug\ExampleClass2.csprojAssemblyReference.cache
+D:\Documents\Repos\WebApiCoreExample\ExampleClass2\obj\Debug\ExampleClass2.csproj.CoreCompileInputs.cache
+D:\Documents\Repos\WebApiCoreExample\ExampleClass2\obj\Debug\ExampleClass2.dll
+D:\Documents\Repos\WebApiCoreExample\ExampleClass2\obj\Debug\ExampleClass2.pdb

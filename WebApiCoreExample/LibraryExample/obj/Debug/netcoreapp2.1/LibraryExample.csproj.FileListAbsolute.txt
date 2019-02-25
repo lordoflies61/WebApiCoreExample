@@ -1,0 +1,11 @@
+D:\Documents\Repos\WebApiCoreExample\LibraryExample\bin\Debug\netcoreapp2.1\LibraryExample.deps.json
+D:\Documents\Repos\WebApiCoreExample\LibraryExample\bin\Debug\netcoreapp2.1\LibraryExample.dll
+D:\Documents\Repos\WebApiCoreExample\LibraryExample\bin\Debug\netcoreapp2.1\LibraryExample.pdb
+D:\Documents\Repos\WebApiCoreExample\WebApiCoreExample\bin\Classes\netcoreapp2.1\LibraryExample.deps.json
+D:\Documents\Repos\WebApiCoreExample\WebApiCoreExample\bin\Classes\netcoreapp2.1\LibraryExample.dll
+D:\Documents\Repos\WebApiCoreExample\WebApiCoreExample\bin\Classes\netcoreapp2.1\LibraryExample.pdb
+D:\Documents\Repos\WebApiCoreExample\LibraryExample\obj\Debug\netcoreapp2.1\LibraryExample.csproj.CoreCompileInputs.cache
+D:\Documents\Repos\WebApiCoreExample\LibraryExample\obj\Debug\netcoreapp2.1\LibraryExample.AssemblyInfoInputs.cache
+D:\Documents\Repos\WebApiCoreExample\LibraryExample\obj\Debug\netcoreapp2.1\LibraryExample.AssemblyInfo.cs
+D:\Documents\Repos\WebApiCoreExample\LibraryExample\obj\Debug\netcoreapp2.1\LibraryExample.dll
+D:\Documents\Repos\WebApiCoreExample\LibraryExample\obj\Debug\netcoreapp2.1\LibraryExample.pdb

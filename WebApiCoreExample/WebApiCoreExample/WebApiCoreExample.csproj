@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LibraryExample\LibraryExample.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ExampleClass2">
+      <HintPath>bin\Classes\ExampleClass2.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
